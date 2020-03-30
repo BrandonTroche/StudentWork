@@ -1,5 +1,5 @@
 # StudentWork
-This repository is to hold links to the iOS work of my students.
+This repository is to hold links to the iOS work of my students. I was an iOS Software Development Instructor for Make School, Inc. based in San Fransisco, CA and hosted in New York, NY. Each of my students was very gifted and some went on to interview with FAANG companies.
 
 ### Each project on this list was made in Xcode 9 for iOS 10 using Swift 3. 
 
